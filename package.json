@@ -1,0 +1,16 @@
+{
+  "name": "hw-with-mysql",
+  "version": "1.0.0",
+  "description": "mysql with node homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anastasiia hubar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "nodemon": "*"
+  }
+}
