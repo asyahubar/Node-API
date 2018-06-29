@@ -2,7 +2,7 @@
 
 To run an app on your localhost you can type in console 
 ```
-node hw-with-mysql
+node index.js
 ```
 or install [nodemon](https://github.com/remy/nodemon) globally and type
 ```
